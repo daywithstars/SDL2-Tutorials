@@ -2,6 +2,7 @@
  * SDL2-Basics: 00-HelloWorld
  * 
  * from: https://www.youtube.com/channel/UCkBKfq3QzleueGrjjcRiPMw
+ *
  * GitHub: github.com/daywithstars/SDL2-Tutorials
  */
 
